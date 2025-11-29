@@ -1,5 +1,4 @@
 # 💫 About Me:
-Hi there! 👋<br>🔭 I’m currently working on Axium-dev.fr<br>
 
 
 ## 🌐 Socials:
