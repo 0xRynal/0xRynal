@@ -12,7 +12,7 @@ web  $  https://fenrir-labs.fr/
 ```
 &zwnj; 
 &zwnj; 
-![](https://komarev.com/ghpvc/?username=0xrynal&color=purple)
+![](https://komarev.com/ghpvc/?username=0xrynal&color=blueviolet)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/685552160594723015) 
