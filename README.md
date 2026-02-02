@@ -1,6 +1,18 @@
 # 💫 About Me:
 Web & Applicative developer
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&lines=0xRynal+%7C+Dev)](https://git.io/typing-svg)
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Red_star.svg/220px-Red_star.svg.png" width="147"/> 
+
+```csharp
+github.com/0xRynal
+dc   $  @0xrynal
+srv  $  discord.gg/kuronai discord.gg/0xConnect
+web  $  https://fenrir-labs.fr/
+```
+&zwnj; 
+&zwnj; 
+![](https://komarev.com/ghpvc/?username=0xrynal&color=purple)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/685552160594723015) 
